@@ -13,6 +13,6 @@ I am eager to use all these diverse and complementary skills to work on all the 
 Do not hesitate to contact me, 
 
 Email : 
-louis.brochard@essec.edu
-lbrochar@student.42.fr
+louis.brochard@essec.edu //
+lbrochar@student.42.fr //
 louis.brochard@hotmail.fr
